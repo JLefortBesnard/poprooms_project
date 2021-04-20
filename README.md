@@ -7,7 +7,7 @@ Python 3.
 Modules needed: urllib.request, bs4, math, re, pandas, time, numpy, datetime.
 Make sure you downloaded the MRT_gps.txt as well and both the script and the txt file are in the same folder. When running the script on your terminal, you should be in that directory. You also need an internet connection.
 
-More information: https://losangebleu.site/English_blogposts/blogposts_html/poprooms.php
+More information: https://losangebleu.site/public/webpages/poprooms.php
 
 
 IMPORTANT: Not all Taipei MRT stations are listed in the txt file here. You need to complete the job manually using Google maps and clicking on each missing MRT station to get their coordinates. 
